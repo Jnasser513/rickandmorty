@@ -1,0 +1,8 @@
+rootProject.name='RickAndMortyPlatzi'
+include ':app'
+include ':domain'
+include ':data'
+include ':usecases'
+include ':framework:imagemanager'
+include ':framework:databasemanager'
+include ':framework:requestmanager'
